@@ -1,0 +1,42 @@
+---
+title: "Essen"
+output: html_document
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# Load required libraries
+library(readr)
+library(leaflet)
+
+# Read the data
+data <- read_delim("G:/VF_Server/01_Benutzer/A-E/Dziakowski_Marc/Essen/Essen.csv", delim = ";")
+
+# Define a color palette based on rating
+rating_palette <- colorNumeric(palette = c("red", "yellow", "green"), domain = data$Bewertung)
+
+# Create an interactive map
+map <- leaflet(data) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%  # Add default OpenStreetMap tiles
+  addCircleMarkers(
+    lng = ~y,
+    lat = ~x,
+    popup = ~paste(
+      "<b>Name:</b>", Name, "<br>",
+      "<b>Cuisine:</b>", Cuisine, "<br>",
+      "<b>Rating:</b>", Bewertung, "<br>",
+      "<b>Comment:</b>", Kommentar, "<br>",
+      "<a href='", Link, "' target='_blank'>Google Maps Link</a>"
+    ),
+    radius = 7,
+    color = ~rating_palette(Bewertung),
+    fillOpacity = 1
+  ) %>%
+  addLegend("bottomright", pal = rating_palette, values = ~Bewertung,
+            title = "Rating",
+            labFormat = labelFormat(suffix = ""),
+            opacity = 1)
+
+# Display the map
+map
+
+```
