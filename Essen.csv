@@ -1,0 +1,35 @@
+﻿Id;Name;Link;Cuisine;Stil;Sitzmöglichkeit;Kartenzahlung;Art;Gruppengröße;Distanz;Dauer;Ambiente;Auswahl;Geschmack;Preis;Größe;Bock;Bewertung;Maps Bewertung;Kommentar;x;y
+1;Bao Cun;Bao Cun Imbiss - Google Maps;asiatisch;Imbiss;Nein;Nein;Mittag;4;600;60;1;4;3;5;5;Vielleicht;3.2;4.1;Gratis Krupuk bei ca. 10% Trinkgeld (4 Personen);52.43651452;13.5439891
+2;Azuma;Azuma - Google Maps;japanisch;Restaurant;Ja;Nein;Mittag;12;42;50;3;4;4;4;4;Ja;4.0;4.4;Gratis Grünertee;52.4330467;13.53695668
+3;Eat Green;Eat Green - Google Maps;internationale Kartoffel;Bistro;Ja;Ja;Mittag;;98;35;3.5;3;2.5;3;4;Nein;2.4;4.6;Gratis Wasser im Sommer, neuer Besitzer gesucht;52.4338304;13.53820476
+4;Immer Grün;immergrün Adlershof, Berlin - Google Maps;internationale Kartoffel;Bistro;Ja;Ja;Mittag;;43;30;4;2.5;3.5;2.5;3.5;Ja;3.7;4.5;Aufwärmen möglich, ist aber nur außen;52.43297935;13.53704534
+5;Gerdans Cafe;GERDAN's CAFE - Google Maps;Einfach;Imbiss;Ja;Ja;Mittag;;500;40;3.5;1.5;3;4;2.5;Vielleicht;2.8;;Im Sommer draußen sehr schön;52.43112581;13.53221892
+6;Currywurst Nr.1;Currywurst Nr.1 - Google Maps;Deutsch, berlinerisch;Imbiss;Ja;Nein;Mittag;6;450;30;3.5;2;4;3;3;Ja;3.8;4.6;Teurer wenn vor Ort gegessen wird;52.43561458;13.54216712
+7;Falafel Saida;Falafel Saida - Google Maps;Nah-Ost;Standimbiss;Nein;Nein;Mittag;6;750;45;3;2;3;4;3;Vielleicht;2.8;4.7;Nur draußen;52.42889954;13.53225146
+8;Esswirtschaft;cadadia - Google Maps;international;Bistro;Ja;Ja;Mittag;;1000;60;4;3.5;3;4;4;Ja;3.4;4.2;afrikanisches Essen war Reis mit Tomatensoße und Huhn;52.42850486;13.52586644
+9;Mia Toscana;Mia Toscana - Google Maps;italienisch;Restaurant;Ja;Ja;Abend;;1000;90;4;5;4.5;2.5;4;Ja;3.3;4.5;Gratis Schnaps;52.43859984;13.54982223
+10;Greek Food Olympia;Restaurant Greek Food Olympia - Google Maps;griechisch;TakeAway;Ja;Ja;Mittag;;130;30;2;1;4;4;4;Ja;4.0;4.5;Laut Kellner die womöglich bester Pita der Welt, Gratis Amaretto oder Expresso;52.43413892;13.5387401
+11;Greek Food Olympia;Restaurant Greek Food Olympia - Google Maps;griechisch;Restaurant;Ja;Ja;Abend;12;130;50;2;2.5;3;1.5;4;Vielleicht;2.3;4.5;Laut Kellner die womöglich bester Pita der Welt, Gratis Amaretto oder Expresso;52.43413892;13.5387401
+12;Bagel Company;Bagel Company Adlershof - Google Maps;international;Bistro;Ja;Ja;Mittag;;160;40;3;2;3;4;4.5;Vielleicht;3.2;4.4;Draußen hinten sehr schön, später sind die Portionen größer;52.43224847;13.53579695
+13;Asia Sushi Bar;Asia Sushi Bar - Google Maps;asiatisch;Restaurant;Ja;Ja;Mittag;;170;40;2;3;3.5;3;4;Nein;2.6;4.2;Draußen ok aber immer voll;52.43269966;13.53523788
+14;Restaurant Doon;Restaurant Doon - Google Maps;indisch;Restaurant;Ja;Ja;Mittag;20;650;60;3;4;4;4.5;4;Ja;4.0;4.6;Wechselndes  Tagesmenü;52.43481349;13.54420682
+15;Fisch mit Biss / Fish & Chips;Fisch mit Biss / Fish & Chips - Google Maps;Fisch;Imbiss;Ja;Nein;Mittag;6;290;40;5;1.5;3.5;4;4;Vielleicht;3.4;4.8;Fettig, nur draußen;52.43157762;13.5374767
+16;Kamee Caffé;Kamee caffé & Essbar - Google Maps;international;Bistro;Ja;Ja;Mittag;;650;50;3;2;3.5;4;4;Vielleicht;3.1;4.5;Draußen auf den Hinterhof sehr ruhig;52.42975317;13.53057598
+17;Mani Mago;mani mogo — KOREAN DINER - Google Maps;koreanisch;Restaurant;Ja;Ja;Abend;;500;60;3;3;4.5;2.5;4;Ja;3.6;4.5;Draußen sehr ruhig;52.43309158;13.53206979
+18;Speisemanufraktur;Speisemanufaktur Adlershof - Google Maps;international;Bistro;Ja;Ja;Mittag;;1100;70;4;3;3;3.5;3.5;Ja;3.0;3.9;Kicker;52.43184927;13.52397958
+19;BurgerVision Smashburger;BurgerVision Smashburger - Google Maps;international;Bistro;Ja;Ja;Mittag;;450;35;4;1.5;4;2.5;3;Ja;3.6;4.2;Burger halt;52.43360556;13.54133358
+20;Speisemanufaktur Adlershof - Bistro;Speisemanufaktur Adlershof - Bistro - Google Maps;international;Bistro;Ja;Ja;Mittag;;350;40;1.5;2;2.5;3;2;Vielleicht;2.2;4.1;Campingfeeling;52.43137867;13.53673183
+21;Livas Dönerladen;Dönerladen - Google Maps;Döner;Imbiss;Ja;Ja;Mittag;4;110;40;1;2;3;4;4.5;Ja;3.6;4.1;Der Gerät;52.43327914;13.535403
+22;Döner gmGuten Appetit;Döner gmGuten Appetit - Google Maps;Döner;Imbiss;Ja;Nein;Mittag;6;270;30;4;2.5;2;2.5;3;Nein;2.0;3.6;Draußen ist es hanz nett;52.43157018;13.53771538
+23;Ibo's Keb'up;Ibo's Keb'up - Google Maps;Döner;Imbiss;Nein;Nein;Mittag;6;350;30;0.5;2;1;4;4.5;Nein;1.9;4.4;Soll angeblich richtig gut sein, viellicht schlechten Tag erwischt;52.43512026;13.54106924
+24;Blutspende;Deutsches Zentrum für Luft- und Raumfahrt (DLR) - Google Maps;Snack;Imbiss;Ja;GRATIS;Sonder;;800;90;2;2;4;5;2;Ja;2.8;;Immer wenn geht;52.42822014;13.52922254
+25;Om Mani;Om Mani Restaurant - Google Maps;vietnamesich;Restaurant;Ja;ab 15€;Abend;16;150;50;4;4;4.5;3.5;4;Ja;4.2;4.9;Neu Eröffnet 10% Rabatt bis 1.7., draußen sitzen möglich;52.43239025;13.53683146
+26;Meet Saigon;Restaurant Meet Saigon - Google Maps;vietnamesich;Restaurant;Ja;Ja;Abend;20;270;50;3.5;4;3.5;2;3;Vielleicht;2.7;4.3;2 Karten: Mittags und Normale;52.43380857;13.54024027
+27;HU Mensa;Mensa HU Oase Adlershof - Google Maps;international;Bistro;Ja;Nein;Mittag;12;350;45;3.5;3;2.5;2.5;5;Nein;2.3;3.8;extern;52.4293983;13.53030386
+28;Dogan Bistro;Dogan Bistro - Google Maps;Döner;Imbiss;Ja;Nein;Mittag;4;850;60;1;2.5;3;5;4;Vielleicht;2.9;4.1;zweite Schawarma 2€, Dogan Imbiss ist eigentlich der Laden davor;52.43753881;13.54730823
+29;Bäckerei Eiscafe Konditorei Wulff;Bäckerei Eiscafé Konditorei Wulff - Google Maps;international;Bistro;Ja;Ja;Abend;;59;30;3.5;2;3;4;4.5;Nein;2.9;3.9;90% Kohlenhydrate;52.43375604;13.53814672
+30;Ristorante I DUE AMICI;Ristorante I DUE AMICI - Google Maps;italienisch;Restaurant;Ja;Ja;Mittag;20;350;70;4;5;3.5;2;4.5;Vielleicht;2.7;4.4;Calzone ohne  Tomatensauce;52.43172221;13.53326194
+31;shō ga nai Sushi Bar;shō ga nai Sushi Bar - Google Maps;japanisch;Restaurant;ja;Ja;Abend;10;1300;90;4.5;4;3;2.5;4;Vielleicht;2.1;4.9;;52.43551433;13.52316763
+34;Farmers Kitchen;Farmers Kitchen - Google Maps;internationale Kartoffel;Bistro;Ja;Ja;Mittag;4;350;50;3;3;4;2;4;Vielleicht;3.0;4.9;Sehr kleine Ladenfläche;52.43301343;13.54032263
+35;Olivo Berlin;olivo berlin - Google Maps;italienisch;Restaurant;Ja;Ja;Mittag;10;450;65;4.5;2;3.5;3.5;3.5;Ja;3.2;4.4;Beim bezahlen auf Preis achten;52.43627962;13.53563959
+36;Tran Asia;Tran Asia - Google Maps;vietnamesich;Restaurant;Ja;ab 20€;Mittag;8;500;60;4;4.5;3.5;3.5;3.5;Vielleicht;3.0;4.5;;52.43603099;13.54324508
