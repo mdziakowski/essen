@@ -9,7 +9,7 @@ library(readr)
 library(leaflet)
 
 # Read the data
-data <- read_delim("G:/VF_Server/01_Benutzer/A-E/Dziakowski_Marc/Essen/Essen.csv", delim = ";")
+data <- read_delim("Essen.csv", delim = ";")
 
 # Define a color palette based on rating
 rating_palette <- colorNumeric(palette = c("red", "yellow", "green"), domain = data$Bewertung)
