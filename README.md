@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Wie? Wo? Was? Alles rund ums Essen gehen in Adlershof.
 
 <html>
 
